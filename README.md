@@ -41,8 +41,8 @@ Ordered List
 3. item3
 
 Task List
-[x] goal 1
-[] goal 2
+- [x] goal 1
+- [] goal 2
 
 
 
