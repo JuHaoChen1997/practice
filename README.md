@@ -14,4 +14,15 @@ _This us italic_
 
 >This is a quote
 
+This is `code` inside a sentence
+
+```
+This is the code block
+This is the code block
+This is the code block
+```
+
+This is the link to [google].(https://www.google.com/)
+
+
 
