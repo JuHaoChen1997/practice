@@ -22,7 +22,7 @@ This is the code block
 This is the code block
 ```
 
-This is the link to [google].(https://www.google.com/)
+This is the link to [google](https://www.google.com/).
 
 
 
