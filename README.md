@@ -26,7 +26,7 @@ This is the link to [google](https://www.google.com/).
 
 [link to another file](main/anotherFile.md)
 
-[link to another file](../anotherFile.md)
+[link to another file](./anotherFile.md)
 
 
 
