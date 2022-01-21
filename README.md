@@ -24,9 +24,11 @@ This is the code block
 
 This is the link to [google](https://www.google.com/).
 
-[link to another file](docs/anotherFile.md)
+[link to another file](practice/anotherFile.md)
 
 [link to another file](../anotherFile.md)
+
+
 
 
 
