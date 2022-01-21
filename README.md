@@ -35,6 +35,11 @@ This is a list
 - item2
 - item3
 
+Ordered List
+1.item1
+2.item2
+3.item3
+
 
 
 
