@@ -42,7 +42,8 @@ Ordered List
 
 Task List
 - [x] goal 1
-- [] goal 2
+- [ ] goal 2
+
 
 
 
